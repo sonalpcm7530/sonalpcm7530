@@ -5,7 +5,6 @@ Hi there, I'm Sonal Mishra
 🌱 I’m currently learning everything.
 
 👯 I’m looking to collaborate with other open source project.
-
  
 
 🛠️ My Skills
@@ -19,7 +18,9 @@ Hi there, I'm Sonal Mishra
   HTML   CSS   
 
 👉 IDEs
+
   Visual Studio Code
+   
    
 👉 Competitive Programming & Problem Solving
 
