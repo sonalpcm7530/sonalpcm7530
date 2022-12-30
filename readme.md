@@ -1,6 +1,7 @@
 Hi there, I'm Sonal Mishra 
 
 💁‍♂️ About me
+
 🌱 I’m currently learning everything.
 
 👯 I’m looking to collaborate with other open source project.
@@ -8,10 +9,13 @@ Hi there, I'm Sonal Mishra
  
 
 🛠️ My Skills
+
 👉 Programming languages
+
   C     Java   Python
 
 👉 Frontend Development
+
   HTML   CSS   
 
 👉 IDEs
