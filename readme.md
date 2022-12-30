@@ -12,6 +12,10 @@ Hi there, I'm Sonal Mishra
 👉 Programming languages
 
   C     Java   Python
+  
+👉 Database
+
+     MYSQL
 
 👉 Frontend Development
 
