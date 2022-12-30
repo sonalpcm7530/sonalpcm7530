@@ -1,7 +1,8 @@
 Hi there, I'm Sonal Mishra 
 
 💁‍♂️ About me
-🌱 I’m currently learning everything. 😁
+🌱 I’m currently learning everything.
+
 👯 I’m looking to collaborate with other open source project.
 
  
