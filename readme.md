@@ -28,6 +28,6 @@ Hi there, I'm Sonal Mishra
    
 👉 Competitive Programming & Problem Solving
 
-    Leetcode     https://leetcode.com/sonalpcm7530/
+   Leetcode     https://leetcode.com/sonalpcm7530/
     
     Hackerrank   https://www.hackerrank.com/sonalpcm7530   
