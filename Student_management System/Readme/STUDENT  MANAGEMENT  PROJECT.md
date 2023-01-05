@@ -17,7 +17,7 @@ With the help of this we can also access the information about particular studen
 
 Feature to update or add new students data also performed easily.
 
-At starting we have database of 29 students stored and using JDBC we are connecting MYSQL database  using JConnector URL.
+By deafult starting we have database of 29 students stored and using JDBC we are connecting MYSQL database  using JConnector URL.
 
 Screenshots:
 
