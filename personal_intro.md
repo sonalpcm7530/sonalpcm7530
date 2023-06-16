@@ -19,15 +19,20 @@ Hi there, I'm Sonal Mishra
 
 👉 Frontend Development
 
-  HTML   CSS   
+  HTML5   CSS   
 
 👉 IDEs
 
   Visual Studio Code
+  Eclipse
    
    
 👉 Competitive Programming & Problem Solving
 
-   
     
     Hackerrank   https://www.hackerrank.com/sonalpcm7530   
+
+👉 Connect with  me:
+    LinkedIn -https://www.linkedin.com/in/sonal-mishra-5640041a7/
+    
+    
