@@ -7,24 +7,31 @@ exception handling, reading/writing data on stream, private messaging, and passw
 Features:
 
 User Registration
+
 New users can create account with their unique username and password.
 
 Login
+
 Registered user can login with their credential.
 
 Chat Interface
+
 Users can join chat rooms and communicate with other users in real-time 
 using a user-friendly chat interface.
 
 SQL Database
+
 Users username and password are stored securely in SQL database.
 
 Multithreading
+
 In this many clients can connect together using multithreading.
 
 Socket programming and Server Socket
+
 Application uses Socket programming and Server socket establishing connection 
 or commiunication between client and Server.
 
 Error and Exception Handling
+
 Application includes error and exception handling mechanism to handle unexpected errors.
