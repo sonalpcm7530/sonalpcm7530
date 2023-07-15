@@ -24,12 +24,13 @@ Feature to update or add new students data also performed easily.
 
 In this we have database of  students stored and using JDBC we are connecting MYSQL database  using JConnector URL.
 
+Screenshots
 
+![pic0](https://github.com/sonalpcm7530/sonalpcm7530/assets/87272441/f8d533a4-510c-476c-a71f-c93c8e7f4801)
 
- 
- 
- 
- 
+ ![pic01](https://github.com/sonalpcm7530/sonalpcm7530/assets/87272441/9033329e-331d-49a3-b487-c574df8a70c7)
+
+![pic1](https://github.com/sonalpcm7530/sonalpcm7530/assets/87272441/e5159783-1c1b-4377-9996-436bc2da9ad2)
 
 
 
