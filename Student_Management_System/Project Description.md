@@ -1,3 +1,5 @@
+                                                  Student Management System
+
 Student Management System Desktop Application Created with JAVA using NeatBeans .
 This is a basic minor java project using java as a programming language.
 Student management system is an environment where all the process of the student in the institution is managed. 
@@ -14,7 +16,7 @@ With the help of this we can also access the information about particular studen
 Feature to update or add new students data also performed easily.
 At starting we have database of 29 students stored and using JDBC we are connecting MYSQL database  using JConnector URL.
 
-Screenshots:
+
 
  
  
