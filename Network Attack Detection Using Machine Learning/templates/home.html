@@ -1,0 +1,66 @@
+<html>
+<head>
+<style>
+body {
+background-image: url('https://images.unsplash.com/photo-1547623641-d2c56c03e2a7?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Ymx1cnJlZCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA=');
+/*background-color: #ffcccc; */
+font-family: Arial, sans-serif;
+}
+
+form {
+border: 5px solid #000000;
+padding: 30px;
+margin: 0 auto; 
+width: 70%;
+}
+
+h1 {
+text-align: center; 
+margin-bottom: 30px; 
+}
+
+input[type="text"] {
+width: 100%; 
+margin-bottom: 10px; 
+}
+
+input[type="submit"] {
+background-color: #000000; 
+color: #ffffff; 
+border: none; 
+padding: 10px 20px;
+}
+
+img {
+display: block; 
+margin: 1px; 
+margin-top: 2px; 
+}
+</style>
+</head>
+<body>
+
+<form method="POST" action="{{url_for('home')}}">
+<h1> NETWORK ATTACK DETECTION USING MACHINE LEARNING </h1>
+
+<label for="f1">Enter Protocol_Type (TCP-1 UDP-2 ICMP-0):</label><br>
+<input type="text" id="f1" name="f1" placeholder="Flag"><br>
+
+<label for="f2">Enter SRC Bytes:</label><br>
+<input type="text" id="f2" name="f2" placeholder="src_bytes"><br>
+
+<label for="f3">Enter DST Bytes:</label><br>
+<input type="text" id="f3" name="f3" placeholder="dst_bytes"><br>
+
+<label for="f4">Enter Hot Value:</label><br>
+<input type="text" id="f4" name="f4" placeholder="same_srv_rate"><br>
+
+<label for="f5">Enter DST Host  Srv Count:</label><br>
+<input type="text" id="f5" name="f5" placeholder="dst_host_count"><br>
+
+<input type="submit" value="Predict!">
+</form>
+
+
+</body>
+</html>

@@ -1,0 +1,66 @@
+<html>
+<head>
+<style>
+body {
+background-color: #a3cfb4;
+font-family: Arial, sans-serif;
+}
+
+h1 {
+text-align: center;
+margin-bottom: 20px;
+}
+
+h3 {
+text-align: center;
+margin-top: 20px;
+color: red;
+}
+
+a {
+display: block;
+text-align: center;
+margin: 0 auto;
+margin-top: 20px;
+padding: 10px 20px;
+background-color: #000000;
+color: #ffffff;
+text-decoration: none;
+border-radius: 5px;
+width: 150px;
+}
+
+.thank-you {
+text-align: center;
+margin-top: 50px;
+font-size: 24px;
+color: #333;
+}
+</style>
+</head>
+
+<body>
+
+<center>
+
+<h1> PREDICTION : </h1>
+
+<br>
+{% if output %}
+<h3> Attack Class should be <b style="color:red;">{{ output }}</b> </h3>
+{% endif %}
+
+<br><br>
+<a href="{{ url_for('Home_Page')}}"> Home Page</a>
+
+<br><br>
+
+<div class="thank-you">
+Thank you 
+</div>
+
+</center>
+
+</body>
+
+</html>
